@@ -199,6 +199,7 @@ jobs:
               - libraries/EEPROM/examples/eeprom_put
               - libraries/EEPROM/examples/eeprom_read
               - libraries/SPI
+              - libraries/UserProfile
               - libraries/Wire
           - board:
               serial: false
