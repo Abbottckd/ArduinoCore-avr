@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map for UserProfile
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UserProfile	KEYWORD1
+UserProfileData	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+load	KEYWORD2
+save	KEYWORD2
+exists	KEYWORD2
+wipe	KEYWORD2
+getName	KEYWORD2
+getMaskedName	KEYWORD2
+setName	KEYWORD2
+getEmail	KEYWORD2
+getMaskedEmail	KEYWORD2
+setEmail	KEYWORD2
+getDeviceId	KEYWORD2
+setDeviceId	KEYWORD2
+isPrivacyEnabled	KEYWORD2
+setPrivacyEnabled	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+USER_PROFILE_NAME_LEN	LITERAL1
+USER_PROFILE_EMAIL_LEN	LITERAL1
+USER_PROFILE_PRIVACY_BIT	LITERAL1
